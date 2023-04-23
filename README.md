@@ -1,1 +1,2 @@
-# Eternal-Return-Randomizer
+Old program, outdated
+
